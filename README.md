@@ -1,2 +1,0 @@
-# ninenOiz
-projectnaja
